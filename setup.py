@@ -21,10 +21,9 @@ setup(
     packages=[
         'Siamese_Checking_Model',
     ],
-    package_dir={'Siamese_Checking_Model': 'Siamese_Checking_Model
+    package_dir={'Siamese_Checking_Model': 'Siamese_Checking_Model'},
     package_data={
-        'Siamese_Checking_Model': ['models/*.dat'],
-				
+        'Siamese_Checking_Model': ['models/*.dat'],				
     },
     install_requires=requirements,
     license="MIT license",
