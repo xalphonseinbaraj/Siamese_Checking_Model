@@ -17,7 +17,7 @@ setup(
 	long_description_content_type="text/markdown",
     author="AlphonseInbarajXavier",
     author_email='xalphonse@gmail.com',
-    url='https://github.com/xalphonseinbaraj/Siamese_for_face_recognization',
+    url='https://github.com/xalphonseinbaraj/Siamese_Checking_Model',
     packages=[
         'Siamese_Checking_Model',
     ],
